@@ -93,6 +93,4 @@ Para testar essas APIs, você pode usar uma ferramenta como Postman ou curl. Aqu
 
 Lembre-se de substituir `<port>` pelo número da porta onde o serviço está sendo executado, e substituir `your_token` pelo token que você está usando para autenticação.
 
-### Notas
 
-Essa documentação pressupõe um ambiente de desenvolvimento simplificado e não inclui detalhes sobre a configuração do Azure Service Bus, Azure Cosmos DB, gRPC, etc. Para um ambiente de produção real, você precisará ajustar esta documentação de acordo.
