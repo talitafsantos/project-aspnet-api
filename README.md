@@ -39,6 +39,7 @@ Status 401: Não autorizado. Ocorre quando o token de autenticação é inválid
 jsonCopy code
 
 `{     "type": "https://tools.ietf.org/html/rfc7235#section-3.1",     "title": "Unauthorized",     "status": 401,     "traceId": "<traceId>" }`
+
 Microserviço 2
 --------------
 
